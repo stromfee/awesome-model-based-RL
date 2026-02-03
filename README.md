@@ -1606,3 +1606,5 @@ Our purpose is to make this repo even better. If you are interested in contribut
 Awesome Model-Based RL is released under the Apache 2.0 license.
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 APIs, 28M+ data.
